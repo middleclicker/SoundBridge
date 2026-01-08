@@ -6,6 +6,8 @@
 
 What sets SoundBridge apart is the ability to set **independent delay compensation** (millisecond precision) and volume levels for every speaker. This is perfect for multi-room setups, connecting Bluetooth and wired speakers simultaneously, or fixing sync issues in complex audio environments.
 
+<img width="1062" height="740" alt="DemoScreenshot1" src="https://github.com/user-attachments/assets/2687b6af-b753-45ab-87b3-94889e6c68c9" />
+
 ## 🚀 Features
 
 * **Multi-Output Routing:** Send one audio source to as many devices as your computer can handle.
